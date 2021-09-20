@@ -36,7 +36,7 @@
 		<sansa.query.version>0.5.1-SNAPSHOT</sansa.query.version>
 		<sansa.inference.version>0.5.1-SNAPSHOT</sansa.inference.version>
 		<sansa.ml.version>0.5.1-SNAPSHOT</sansa.ml.version>
-		<jena.version>3.9.0</jena.version>
+		<jena.version>4.2.0</jena.version>
 	</properties>
 
 	<dependencies>
